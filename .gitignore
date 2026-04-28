@@ -1,5 +1,5 @@
 # Virtual environments
-venv/
+flooddigitaltwin/
 .venv/
 env/
 ENV/
